@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Plant Disease Detection using Deep Learning
 
 ## Overview
@@ -24,3 +25,7 @@ Training curves and Grad-CAM visualizations are available in the results/ folder
 
 ## License
 MIT License
+=======
+# PlantDiseaseDetection
+Plant disease detection using deep learning (VGG16, ResNet50, EfficientNet) with Grad‑CAM explainability.
+>>>>>>> e5df2de83a1c8b8d6058c0f756cafc7d6d76447b
